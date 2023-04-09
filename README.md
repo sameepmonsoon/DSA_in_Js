@@ -1,2 +1,2 @@
-# DSA_in_Js
+#DSAInJs
 Data Structures and Algorithms in JavaScript
