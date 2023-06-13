@@ -1,4 +1,5 @@
-let array = ["a", "b", "c", "d", "a", "b", 1, 2,1,2,1];
+// remove the duplicate item from an array irrespective of type of the variable
+let array = ["a", "b", "c", "d", "a", "b", 1, 2, 1, 2, 1];
 
 function removeSame(array) {
   return array.filter((item, index) => array.indexOf(item) === index);
